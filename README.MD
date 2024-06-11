@@ -70,3 +70,4 @@ ACCESS_CANCEL — activation has been canceled.
 - [ ] Publication on PyPiP
 - [ ] Creating documentation
 - [ ] Room rental support
+- [ ] Loggining
