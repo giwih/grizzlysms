@@ -64,3 +64,9 @@ ACCESS_ACTIVATION — the service has been successfully activated;
 ACCESS_CANCEL — activation has been canceled.
 """
 ```
+## Tasks:
+- [x] Basic Library
+- [ ] Github wiki
+- [ ] Publication on PyPiP
+- [ ] Creating documentation
+- [ ] Room rental support
