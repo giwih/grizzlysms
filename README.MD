@@ -30,6 +30,9 @@ Your balance: {balance}
 Cost number: {costnumber}
 Count numbers: {countnumbers}""")
 ```
+
+#### You can get all id services/countres from [here](https://github.com/giwih/grizzlysms/blob/master/codes.md)
+
 ##### Number
 ```python
 #get number
