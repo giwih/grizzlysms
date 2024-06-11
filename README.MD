@@ -30,7 +30,7 @@ Your balance: {balance}
 Cost number: {costnumber}
 Count numbers: {countnumbers}""")
 ```
-
+## more details here - https://github.com/giwih/grizzlysms/wiki
 #### You can get all id services/countres from [here](https://github.com/giwih/grizzlysms/blob/master/codes.md)
 
 ##### Number
@@ -66,7 +66,7 @@ ACCESS_CANCEL — activation has been canceled.
 ```
 ## Tasks:
 - [x] Basic Library
-- [ ] Github wiki
+- [x] Github wiki
 - [ ] Publication on PyPiP
 - [ ] Creating documentation
 - [ ] Room rental support
